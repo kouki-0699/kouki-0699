@@ -21,7 +21,7 @@
 
 ### Social
 <p>
- <a herf="https://twitter.com/home?lang=ja"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout"></a>
+ <a herf="https://twitter.com/kouki_0699"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout"></a>
   <a herf="https://discord.com/users/782212889854345216"><img src="https://img.shields.io/badge/-Discord-white.svg?logo=discord&style=popout"></a>
 </p>
 
