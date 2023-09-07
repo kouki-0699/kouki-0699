@@ -1,7 +1,7 @@
-<h1>About</h1>
+##About
 <p>High school student</p>
 
-<h1>Others</h1>
+##Others
 <p>Languages</p>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-black.svg?logo=html5&style=popout">
