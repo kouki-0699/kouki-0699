@@ -22,7 +22,9 @@
 ### Social
 <p>
 [![](https://img.shields.io/badge/Twitter%20(@ema1in)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/ema1in)
-  <a herf="https://twitter.com/kouki_0699"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout">
+  
+  <a herf="https://twitter.com/kouki_0699"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout"></a>
+  
 [![](https://img.shields.io/badge/Discord%20(@emak)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/864735082732322867) 
 </p>
 
