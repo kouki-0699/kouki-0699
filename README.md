@@ -8,9 +8,10 @@
 
 ## Others
 ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 ### Editor
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=popout">
 
