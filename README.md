@@ -13,14 +13,9 @@
   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 ### Editor
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=popout">
-
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 ### OS
-<p>
-  <img src="https://img.shields.io/badge/-Windows-0078D4.svg?logo=windows&style=popout">
-  <img src="https://img.shields.io/badge/-IOS-000000.svg?logo=apple&style=popout">
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 ### Social
 <p>
 <a herf="https://twitter.com/kouki_0699"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout"></a>
