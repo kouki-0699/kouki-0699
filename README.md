@@ -15,10 +15,8 @@
 ### Editor
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+windws
 ### Social
-<p>
-<a herf="https://twitter.com/kouki_0699"><img src="https://img.shields.io/badge/-Twitter-fff.svg?logo=twitter&style=popout"></a>
-<a herf="https://discord.com/782212889854345216"><img src="https://img.shields.io/badge/-Discord-white.svg?logo=discord&style=popout"></a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=twotter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
