@@ -15,7 +15,7 @@
 ### Editor
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 ### OS
-windws
+windows
 ### Social
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/k0331_kouki)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
