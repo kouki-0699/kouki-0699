@@ -17,6 +17,6 @@
 ### OS
 windws
 ### Social
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/k0331_kouki)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kouki_331n)
