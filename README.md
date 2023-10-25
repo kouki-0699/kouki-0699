@@ -17,6 +17,6 @@
 ### OS
 windws
 ### Social
-[![My Skills](https://skillicons.dev/icons?i=twotter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
