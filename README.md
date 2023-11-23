@@ -1,8 +1,4 @@
-<p align="left"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&nk-331=true&theme=radical)
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nk-331&theme=onedark&show_icons=ture" />
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk-331&theme=radical)
 ## About
 <p>High school student</p>
 
