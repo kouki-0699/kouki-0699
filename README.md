@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouki331-pro&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kouki331-pro&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-331&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nk-331&theme=onedark&show_icons=ture" />
 </p>
 
 ## About
@@ -17,6 +17,6 @@
 ### OS
 windows
 ### Social
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/k0331_kouki)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kouki_0699)
+[![My Skills](https://skillicons.dev/icons?i=discord)]
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kouki_331n)
