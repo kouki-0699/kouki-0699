@@ -10,8 +10,8 @@
   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 ### Editor
-![My Skills](https://skillicons.dev/icons?i=vscode)
-windows
+![My Skills](https://skillicons.dev/icons?i=vscode)  
+-windows
 ### Social
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kouki_0699)
 ![My Skills](https://skillicons.dev/icons?i=discord)
