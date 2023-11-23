@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-331layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk-331&theme=radical)
 ## About
 <p>High school student</p>
