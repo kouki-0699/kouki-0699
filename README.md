@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-331&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk-331&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouki-0699&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki-0699&theme=dark)
 ## About
 <p>High school student</p>
 
@@ -13,6 +13,6 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode)  
 -windows
 ### Social
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kouki_0699)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kouki_0699g)
 ![My Skills](https://skillicons.dev/icons?i=discord)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kouki_331n)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kouki_0699g)
