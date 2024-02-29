@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouki-0699&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouki-0699&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki-0699&theme=dark)
 ## About
 <p>High school student</p>
